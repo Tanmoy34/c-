@@ -1,0 +1,27 @@
+[
+	{
+		"file": "F:\\eu4\\c++\\UnrealLearningKit\\Source\\UnrealLearningKit\\MoveingPlatform.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\eu4\\c++\\UnrealLearningKit\\.vscode\\compileCommands_UnrealLearningKit\\UnrealLearningKit.205.rsp",
+		"directory": "F:\\eu4\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\eu4\\c++\\UnrealLearningKit\\Source\\UnrealLearningKit\\MoveingPlatform.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\eu4\\c++\\UnrealLearningKit\\.vscode\\compileCommands_UnrealLearningKit\\UnrealLearningKit.205.rsp",
+		"directory": "F:\\eu4\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\eu4\\c++\\UnrealLearningKit\\Source\\UnrealLearningKit\\UnrealLearningKit.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\eu4\\c++\\UnrealLearningKit\\.vscode\\compileCommands_UnrealLearningKit\\UnrealLearningKit.205.rsp",
+		"directory": "F:\\eu4\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\eu4\\c++\\UnrealLearningKit\\Source\\UnrealLearningKit\\UnrealLearningKit.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\eu4\\c++\\UnrealLearningKit\\.vscode\\compileCommands_UnrealLearningKit\\UnrealLearningKit.205.rsp",
+		"directory": "F:\\eu4\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\eu4\\c++\\UnrealLearningKit\\Source\\UnrealLearningKit\\UnrealLearningKit.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\eu4\\c++\\UnrealLearningKit\\.vscode\\compileCommands_UnrealLearningKit\\UnrealLearningKit.205.rsp",
+		"directory": "F:\\eu4\\UE_5.0\\Engine\\Source"
+	}
+]
